@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+#wrapper{
+    background-image: url("test1_assets/background.png");
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+.blk{
+    background-color: black !important;
+
+}
+
+#profileImg {
+    border-width:5px !important;
+}
+
+ .bbb{
+      background-color: rgb(199,210,220);
+  }
+
+@media only screen and (max-width: 767px) {
+  .btn-group {
+    display: block;
+  }
+  
+  .btn-group .btn {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+
+  .bbb{
+      background-color: rgb(199,210,220);	
+  }
+}
