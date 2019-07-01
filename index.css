@@ -3,7 +3,7 @@
 }
 
 #wrapper{
-    background-image: url("test1_assets/background.png");
+    background-image: url('https://i.imgur.com/hNKQM0l.png');
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: center center; 
